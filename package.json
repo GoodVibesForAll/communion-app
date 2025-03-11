@@ -19,9 +19,14 @@
     "postcss": "^8.5.3"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+
+    "cstart": "craco start",
+    "cbuild": "craco build",
+    "ctest": "craco test"
   },
   "eslintConfig": {
     "extends": [
