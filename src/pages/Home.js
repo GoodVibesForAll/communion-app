@@ -8,6 +8,7 @@ const Home = () => {
     <div>
       <header>
         <h1>Communion App</h1>
+	<title>Connecting People Across Faiths & Interests</title>
         <nav>
           <Link to="/">Home</Link> | <Link to="/events">Events</Link> | <Link to="https://communionhub.org/discover-communities">About</Link>
         </nav>
