@@ -1,9 +1,16 @@
 # Features 
 
-	- use react and water css
-	- user framer animations
-	- use browser local storage to remember state.
+	- used react and water css
+	- used framer animations
+	- used browser local storage to remember state.
 	- deployed to netlify cdn
+	- responsive design works on mobile
+	- can install react app as PWA
+        - Title: "Connecting People Across Faiths & Interests"
+
+# Its Live At
+
+https://genuine-stardust.netlify.app/
 
 # Getting Started with Create React App
 
