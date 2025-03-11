@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+    git push --set-upstream origin main
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5df16fd-0d3e-4704-8fbb-e28ccc1b47a8/deploy-status)](https://app.netlify.com/sites/genuine-stardust-0fff25/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
